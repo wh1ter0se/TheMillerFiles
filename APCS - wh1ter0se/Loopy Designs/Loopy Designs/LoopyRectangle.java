@@ -1,0 +1,12 @@
+
+public class LoopyRectangle {
+	public static void main() {
+		final int LENGTH = 11;
+        
+		for (int i = 1; i <= LENGTH; i++) {
+			for (int j = 1; j <= LENGTH; j++)
+				System.out.print("*");
+			System.out.println("");
+		}
+	}
+} 

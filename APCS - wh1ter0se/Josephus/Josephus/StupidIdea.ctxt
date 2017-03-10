@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=bodyCount\ skipCount
+comment0.target=int\ Main(int,\ int)
+comment1.params=b\ s
+comment1.target=void\ AssignVars(int,\ int)
+comment2.params=
+comment2.target=int\ WhoWillLive()
+comment3.params=
+comment3.target=java.lang.String\ PoliceReport()
+numComments=4

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=categories\ weights
+comment0.target=CategoryGradebook(java.lang.String[],\ int[])
+comment1.params=assign
+comment1.target=void\ add(Assignment)
+comment2.params=
+comment2.target=double\ calculateGrade()
+comment3.params=assign
+comment3.target=int\ findCategory(Assignment)
+numComments=4

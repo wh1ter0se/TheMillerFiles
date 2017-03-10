@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=dice()
+comment1.params=runTimes
+comment1.target=java.lang.String\ dieRoll(int)
+numComments=2

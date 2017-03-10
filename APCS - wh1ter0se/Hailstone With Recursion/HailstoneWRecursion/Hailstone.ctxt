@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hailstone()
+comment1.params=
+comment1.target=void\ KiloRace()
+comment2.params=num
+comment2.target=int\ HailCaesar(int)
+comment3.params=highVal
+comment3.target=void\ HighVal(int)
+comment4.params=length
+comment4.target=void\ HighLength(int)
+comment5.params=
+comment5.target=void\ PrintEverything()
+numComments=6
