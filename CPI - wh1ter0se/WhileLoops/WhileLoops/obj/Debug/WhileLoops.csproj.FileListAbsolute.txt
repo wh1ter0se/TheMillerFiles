@@ -1,0 +1,9 @@
+R:\(11) CP1H\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe.config
+R:\(11) CP1H\WhileLoops\WhileLoops\bin\Debug\WhileLoops.exe
+R:\(11) CP1H\WhileLoops\WhileLoops\bin\Debug\WhileLoops.pdb
+R:\(11) CP1H\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csprojResolveAssemblyReference.cache
+R:\(11) CP1H\WhileLoops\WhileLoops\obj\Debug\WhileLoops.Form1.resources
+R:\(11) CP1H\WhileLoops\WhileLoops\obj\Debug\WhileLoops.Properties.Resources.resources
+R:\(11) CP1H\WhileLoops\WhileLoops\obj\Debug\WhileLoops.csproj.GenerateResource.Cache
+R:\(11) CP1H\WhileLoops\WhileLoops\obj\Debug\WhileLoops.exe
+R:\(11) CP1H\WhileLoops\WhileLoops\obj\Debug\WhileLoops.pdb

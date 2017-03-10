@@ -1,0 +1,13 @@
+R:\(11) CP1H\houseBuilder\houseBuilder\bin\Debug\houseBuilder.exe.config
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\houseBuilder\houseBuilder\bin\Debug\houseBuilder.exe.config
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\houseBuilder\houseBuilder\bin\Debug\houseBuilder.exe
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\houseBuilder\houseBuilder\bin\Debug\houseBuilder.pdb
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\houseBuilder\houseBuilder\obj\Debug\houseBuilder.csprojResolveAssemblyReference.cache
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\houseBuilder\houseBuilder\obj\Debug\houseBuilder.Form1.resources
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\houseBuilder\houseBuilder\obj\Debug\houseBuilder.Properties.Resources.resources
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\houseBuilder\houseBuilder\obj\Debug\houseBuilder.csproj.GenerateResource.Cache
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\houseBuilder\houseBuilder\obj\Debug\houseBuilder.exe
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\houseBuilder\houseBuilder\obj\Debug\houseBuilder.pdb
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\houseBuilder\houseBuilder\bin\Debug\houseBuilder.exe.config
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\houseBuilder\houseBuilder\obj\Debug\houseBuilder.exe
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\houseBuilder\houseBuilder\obj\Debug\houseBuilder.pdb

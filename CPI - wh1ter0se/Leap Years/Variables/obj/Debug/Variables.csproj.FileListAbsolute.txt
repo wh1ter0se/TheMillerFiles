@@ -1,0 +1,14 @@
+R:\(11) CP1H\Variables\Variables\bin\Debug\Variables.exe.config
+R:\(11) CP1H\Variables\Variables\bin\Debug\Variables.exe
+R:\(11) CP1H\Variables\Variables\bin\Debug\Variables.pdb
+R:\(11) CP1H\Variables\Variables\obj\Debug\Variables.csprojResolveAssemblyReference.cache
+R:\(11) CP1H\Variables\Variables\obj\Debug\Variables.Form1.resources
+R:\(11) CP1H\Variables\Variables\obj\Debug\Variables.Properties.Resources.resources
+R:\(11) CP1H\Variables\Variables\obj\Debug\Variables.csproj.GenerateResource.Cache
+R:\(11) CP1H\Variables\Variables\obj\Debug\Variables.exe
+R:\(11) CP1H\Variables\Variables\obj\Debug\Variables.pdb
+R:\(11) CP1H\Variables\Variables\bin\Debug\Interop.WMPLib.dll
+R:\(11) CP1H\Variables\Variables\bin\Debug\AxInterop.WMPLib.dll
+R:\(11) CP1H\Variables\Variables\obj\Debug\Interop.WMPLib.dll
+R:\(11) CP1H\Variables\Variables\obj\Debug\AxInterop.WMPLib.dll
+R:\(11) CP1H\Variables\Variables\obj\Debug\Variables.csproj.ResolveComReference.cache

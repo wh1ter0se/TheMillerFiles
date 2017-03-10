@@ -1,0 +1,18 @@
+R:\(11) CP1H\MadLibs\MadLibs\bin\Debug\MadLibs.exe.config
+R:\(11) CP1H\MadLibs\MadLibs\bin\Debug\MadLibs.exe
+R:\(11) CP1H\MadLibs\MadLibs\bin\Debug\MadLibs.pdb
+R:\(11) CP1H\MadLibs\MadLibs\obj\Debug\MadLibs.csprojResolveAssemblyReference.cache
+R:\(11) CP1H\MadLibs\MadLibs\obj\Debug\MadLibs.Form1.resources
+R:\(11) CP1H\MadLibs\MadLibs\obj\Debug\MadLibs.Properties.Resources.resources
+R:\(11) CP1H\MadLibs\MadLibs\obj\Debug\MadLibs.csproj.GenerateResource.Cache
+R:\(11) CP1H\MadLibs\MadLibs\obj\Debug\MadLibs.exe
+R:\(11) CP1H\MadLibs\MadLibs\obj\Debug\MadLibs.pdb
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\MadLibs\MadLibs\bin\Debug\MadLibs.exe.config
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\MadLibs\MadLibs\obj\Debug\MadLibs.exe
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\MadLibs\MadLibs\obj\Debug\MadLibs.pdb
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\MadLibs\MadLibs\bin\Debug\MadLibs.exe
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\MadLibs\MadLibs\bin\Debug\MadLibs.pdb
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\MadLibs\MadLibs\obj\Debug\MadLibs.csprojResolveAssemblyReference.cache
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\MadLibs\MadLibs\obj\Debug\MadLibs.Form1.resources
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\MadLibs\MadLibs\obj\Debug\MadLibs.Properties.Resources.resources
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\MadLibs\MadLibs\obj\Debug\MadLibs.csproj.GenerateResource.Cache

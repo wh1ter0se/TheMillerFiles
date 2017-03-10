@@ -1,0 +1,27 @@
+c:\users\wh1ter0se\documents\visual studio 2015\Projects\atariBreakoutRemake\atariBreakoutRemake\bin\Debug\atariBreakoutRemake.exe.config
+C:\Users\wh1ter0se\Documents\Visual Studio 2015\Projects\atariBreakoutRemake\atariBreakoutRemake\bin\Debug\atariBreakoutRemake.exe
+C:\Users\wh1ter0se\Documents\Visual Studio 2015\Projects\atariBreakoutRemake\atariBreakoutRemake\bin\Debug\atariBreakoutRemake.pdb
+C:\Users\wh1ter0se\Documents\Visual Studio 2015\Projects\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.csprojResolveAssemblyReference.cache
+C:\Users\wh1ter0se\Documents\Visual Studio 2015\Projects\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.Form1.resources
+C:\Users\wh1ter0se\Documents\Visual Studio 2015\Projects\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.Properties.Resources.resources
+C:\Users\wh1ter0se\Documents\Visual Studio 2015\Projects\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.csproj.GenerateResource.Cache
+C:\Users\wh1ter0se\Documents\Visual Studio 2015\Projects\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.exe
+C:\Users\wh1ter0se\Documents\Visual Studio 2015\Projects\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.pdb
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\bin\Debug\atariBreakoutRemake.exe.config
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.exe
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.pdb
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\bin\Debug\atariBreakoutRemake.exe
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\bin\Debug\atariBreakoutRemake.pdb
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.csprojResolveAssemblyReference.cache
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.Form1.resources
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.Properties.Resources.resources
+C:\Users\wh1ter0se\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.csproj.GenerateResource.Cache
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\bin\Debug\atariBreakoutRemake.exe.config
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.exe
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.pdb
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\bin\Debug\atariBreakoutRemake.exe
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\bin\Debug\atariBreakoutRemake.pdb
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.csprojResolveAssemblyReference.cache
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.Form1.resources
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.Properties.Resources.resources
+C:\Users\1914024\Google Drive\CPI - Colton Kreischer\atariBreakoutRemake\atariBreakoutRemake\obj\Debug\atariBreakoutRemake.csproj.GenerateResource.Cache

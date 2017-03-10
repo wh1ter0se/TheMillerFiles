@@ -1,0 +1,9 @@
+R:\(11) CP1H\NameThatQuote\NameThatQuote\bin\Debug\NameThatQuote.exe.config
+R:\(11) CP1H\NameThatQuote\NameThatQuote\bin\Debug\NameThatQuote.exe
+R:\(11) CP1H\NameThatQuote\NameThatQuote\bin\Debug\NameThatQuote.pdb
+R:\(11) CP1H\NameThatQuote\NameThatQuote\obj\Debug\NameThatQuote.csprojResolveAssemblyReference.cache
+R:\(11) CP1H\NameThatQuote\NameThatQuote\obj\Debug\NameThatQuote.Form1.resources
+R:\(11) CP1H\NameThatQuote\NameThatQuote\obj\Debug\NameThatQuote.Properties.Resources.resources
+R:\(11) CP1H\NameThatQuote\NameThatQuote\obj\Debug\NameThatQuote.csproj.GenerateResource.Cache
+R:\(11) CP1H\NameThatQuote\NameThatQuote\obj\Debug\NameThatQuote.exe
+R:\(11) CP1H\NameThatQuote\NameThatQuote\obj\Debug\NameThatQuote.pdb
