@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.params=i
-comment0.target=Output(java.io.FileOutputStream)
-comment1.params=str
-comment1.target=void\ Write(java.lang.String)
-numComments=2
