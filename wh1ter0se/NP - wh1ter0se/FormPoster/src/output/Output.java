@@ -7,11 +7,11 @@ public class Output {
 	private static String NAME;
 	private static URL URL;
 	
-	public void sendToServer(String n) {
+	public static void sendToServer(String n) {
 		try {
 			NAME = n;
 			URL = new URL("http://colton.yhscs.us/?name=" + NAME);
-			URLConnection urlC = URL.openConnection();
+			URLConnection urlC = URL.openConnection(); urlC.setDoOutput(true);
 			InputStream input = urlC.getInputStream();
 			InputStream buffer = new BufferedInputStream(input);
 			Reader reader = new InputStreamReader(buffer);
