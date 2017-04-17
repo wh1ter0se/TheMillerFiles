@@ -1,3 +1,4 @@
+//TODO ask miller why the name won't show up in the post variable
 package main;
 
 import java.util.Scanner;

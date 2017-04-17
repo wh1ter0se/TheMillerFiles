@@ -10,7 +10,7 @@ public class Output {
 	public static void sendToServer(String n) {
 		try {
 			NAME = n;
-			URL = new URL("http://colton.yhscs.us/?name=" + NAME);
+			URL = new URL("http://colton.yhscs.us/thenamegame.php?name=" + NAME);
 			URLConnection urlC = URL.openConnection(); urlC.setDoOutput(true);
 			InputStream input = urlC.getInputStream();
 			InputStream buffer = new BufferedInputStream(input);
