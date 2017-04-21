@@ -14,11 +14,11 @@ public class Main {
 	
 	private static String ENGLISH_WORD;
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { while (true) {
 		System.out.println("Enter the word in English.");
 		Scanner in = new Scanner(System.in);
 		ENGLISH_WORD = in.nextLine();
 		System.out.println(ServerContact.getLatin(ENGLISH_WORD));
-	}
+	}}
 
 }

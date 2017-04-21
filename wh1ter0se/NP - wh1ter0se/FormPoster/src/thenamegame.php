@@ -1,5 +1,5 @@
 <?php
-    $name = strtolower($_POST["name"]);
+    $name = strtolower($_GET["name"]);
     $firstLineName = strpbrk($name, 'aeiou');
     $firstLine = '%1$s %1$s bo-b%2$s';
     $firstLineText = ucwords(sprintf($firstLine, $name, $firstLineName));
@@ -12,5 +12,4 @@
     $output = sprintf($outputFormat, $firstLineText, $secondLineText, $thirdLineText, ucwords($name));
     // return $output here, idk how
     echo $output;
-    echo $name;
 ?>
