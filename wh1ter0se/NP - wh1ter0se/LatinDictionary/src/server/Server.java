@@ -11,7 +11,7 @@ import com.sun.istack.internal.logging.Logger;
 
 public class Server {
 	public final static int PORT = 13;
-	public final static Logger LOG;
+	public final static Logger LOG = Logger.getLogger(arg0);
     
     public static void main(String[] args) {
     	try (ServerSocket server = new ServerSocket(PORT)) {
