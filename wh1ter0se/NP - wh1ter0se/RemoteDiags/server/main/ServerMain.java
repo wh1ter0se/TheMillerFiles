@@ -1,7 +1,12 @@
 package main;
 
+import diagnostics.Temperature;
+
 public class ServerMain {
 
-	public void
-	
+	public static void main(String[] args) {
+		Temperature.getCPUHeat();
+
+	}
+
 }
