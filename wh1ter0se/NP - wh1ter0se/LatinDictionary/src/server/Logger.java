@@ -14,13 +14,13 @@ public class Logger {
 		HISTORY = "";
 	}
 	
-	public void request(String client) {
+	public static void request(String client) {
 		NOW = new Date();
 		HISTORY += "\r\n" + NOW + ": request from " + client;
 	}
 	
-	public void error(String client, String error) {
-		
+	public static void error(String client, String error) {
+		HISTORY += "\r\n" + NOW + ": " + error + " while handling " + client;
 	}
 	
 	public ArrayList getRequests() {
@@ -31,7 +31,7 @@ public class Logger {
 		return ERRORS;
 	}
 	
-	public String getHistory() {
+	public static String getHistory() {
 		return HISTORY;
 	}
 }

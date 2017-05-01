@@ -14,24 +14,26 @@ public class Server {
 	public final static Logger LOG = Logger.getLogger(null);
     
     public static void main(String[] args) {
-    	try (ServerSocket server = new ServerSocket(PORT)) {
+    	try (ServerSocket serverSock = new ServerSocket(PORT)) {
             while (true) {
-            	try (Socket connection = server.accept()) {
+            	try (Socket connection = serverSock.accept()) {
+            		request(serverSock.getInetAddress().toString());
                     Writer out = new OutputStreamWriter(connection.getOutputStream());
                     Date now = new Date();
                     out.write(now.toString() + "\r\n");
+                    out.write(server.Logger.getHistory());
                     out.flush();
                     connection.close();
-                } catch (IOException ex) { System.err.println(ex); }
+                } catch (IOException ex) { System.err.println(ex); error(serverSock.getInetAddress().toString(), ex.toString()); }
             }
         } catch (IOException ex) { System.err.println(ex); }
     }
     
-    private void error() {
-    	
+    private static void error(String client, String error) {
+    	server.Logger.error(client, error);
     }
     
-    private void request() {
-    	
+    private static void request(String client) {
+    	server.Logger.request(client);
     }
 }
