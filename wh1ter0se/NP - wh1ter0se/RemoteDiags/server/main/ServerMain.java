@@ -1,11 +1,11 @@
 package main;
 
-import diagnostics.Temperature;
+import diagnostics.Hardware;
 
 public class ServerMain {
 
 	public static void main(String[] args) {
-		Temperature.getCPUHeat();
+		Hardware.getIOSpeed();
 
 	}
 

@@ -1,9 +1,3 @@
-//TODO write line that extracts translation from returned text (might be in google drive?)
-//TODO finish daytime server:
-	// contact server for date and time through ServerContact
-	// print returned date and time under each translation request
-	// make logger for DaytimeServer requests and errors
-
 package main;
 
 import java.util.Scanner;
@@ -18,6 +12,12 @@ public class Main {
 		System.out.println("Enter the word in English.");
 		Scanner in = new Scanner(System.in);
 		ENGLISH_WORD = in.nextLine();
+		int i = 0; String print = ENGLISH_WORD;
+		while (true) {
+			i++;
+			System.out.println(ServerContact.getLatin(ENGLISH_WORD) + "\r\n");
+			print = print.substring(print.indexOf(" ", print.indexOf(" ") + i));
+			if (print == "-1") { break; }}
 		System.out.println(ServerContact.getLatin(ENGLISH_WORD));
 	}}
 
