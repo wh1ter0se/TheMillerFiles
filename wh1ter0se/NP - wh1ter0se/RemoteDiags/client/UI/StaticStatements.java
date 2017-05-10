@@ -1,13 +1,13 @@
 package UI;
 
 public class StaticStatements {
-	
 	private static int i = 0;
+	private final static String BAR = "==============================";
 	
-	public void welcome() {
-		while (i < 30) {System.out.print("="); i++;}
-		i = 0;
-		
+	public static void welcome() {
+		System.out.println(BAR);
+		System.out.println("== Welcome to the mainframe ==");
+		System.out.println(BAR + "\r\n");
 	}
 	
 }
