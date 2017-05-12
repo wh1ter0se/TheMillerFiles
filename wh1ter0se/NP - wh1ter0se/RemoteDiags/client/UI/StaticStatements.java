@@ -7,7 +7,7 @@ public class StaticStatements {
 	public static void welcome() {
 		System.out.println(BAR);
 		System.out.println("== Welcome to the mainframe ==");
-		System.out.println(BAR + "\r\n");
+		System.out.println(BAR);
 	}
 	
 }
