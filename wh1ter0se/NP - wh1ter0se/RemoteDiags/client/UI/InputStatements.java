@@ -15,7 +15,8 @@ public class InputStatements {
 		System.out.println("=  s-Small, t-tall, w-wide   =");
 		System.out.println("=          Modules:          =");
 		int i = 1;
-		for (String module : Contact.getModules()) { //TODO properly space long module names
+		Contact contact = new Contact();
+		for (String module : contact.getModuleList()) { //TODO properly space long module names
 			module = "= " + i + ". " + module;
 			int n = 1;
 			while (module.length() > 28) {
