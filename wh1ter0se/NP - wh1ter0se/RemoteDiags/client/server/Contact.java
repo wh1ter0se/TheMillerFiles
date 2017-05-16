@@ -8,14 +8,18 @@ import java.io.Reader;
 import java.io.Writer;
 import java.net.InetAddress;
 import java.net.Socket;
+import java.net.URL;
 import java.net.UnknownHostException;
 import java.util.ArrayList;
 
 import javax.net.SocketFactory;
 import javax.net.ssl.SSLSocketFactory;
 
+import UI.AddressChecker;
+
 public class Contact {
 	private final static String SERVER_ADDRESS = "https://www.colton.yhscs.us/";
+	private static URL SERVER_URL;
 	
 	private static String OUTPUT_STRING;
 	
@@ -30,11 +34,12 @@ public class Contact {
 	public Contact() {
 		try {
 			FACTORY = SSLSocketFactory.getDefault();
-			SOCKET = FACTORY.createSocket(SERVER_ADDRESS, 4343);
+			SOCKET = FACTORY.createSocket();
+			SERVER_URL = new URL(SERVER_ADDRESS);
 			} catch (UnknownHostException e) { System.err.println(e); }
 		      catch (IOException e)          { System.err.println(e); } }
 	
-	// so the way this reads, the php needs to output items separated by * and end with ~
+	// so the way this reads, the PHP needs to output items separated by * and end with ~
 	public ArrayList<String> getModuleList() { //TODO actually retrieve modules from the database
 		ArrayList<String> modules = null;
 		try { 
@@ -65,4 +70,11 @@ public class Contact {
 			return OUTPUT_STRING;
 			} catch (IOException e) { System.err.println(e); }
 		return ""; }
+
+	public String checkOnline() {
+		if(AddressChecker.isValid(SERVER_ADDRESS)) {
+			
+		}
+		return "";
+	}
 }
