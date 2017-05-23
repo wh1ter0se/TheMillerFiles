@@ -32,6 +32,9 @@ public class Contact {
 		private static Writer WRITER;
 	
 	public Contact() {
+		FACTORY = null;
+		SOCKET = null;
+		SERVER_URL = null;
 		try {
 			FACTORY = SSLSocketFactory.getDefault();
 			SOCKET = FACTORY.createSocket();
@@ -43,6 +46,7 @@ public class Contact {
 	public ArrayList<String> getStats() {
 		ArrayList<String> modules = null;
 		try { 
+			modules = new ArrayList<String>();
 			WRITER.write("list");
 			WRITER.flush();
 			
