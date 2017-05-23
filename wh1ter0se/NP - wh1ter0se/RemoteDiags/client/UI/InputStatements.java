@@ -1,25 +1,28 @@
 package UI;
 
+import java.util.Scanner;
+
 import server.Contact;
 
 public class InputStatements {
 	private final static String BAR = "==============================";
 	
 	public static void initConfig() {
-
-		System.out.println("= Select modules and sizes,  =");
-		System.out.println("=    seperated by commas     =");
-		System.out.println("=       Ex: 1s, 3w, 2t       =");
+		System.out.println("=     Enter 'y' to start     =");
+		System.out.println("= Enter 'n' for header spam  =");
 		System.out.println(BAR);
-		System.out.println("=           Sizes:           =");
-		System.out.println("=  s-Small, t-tall, w-wide   =");
-		System.out.println("=          Modules:          =");
-		int i = 1;
-		Contact contact = new Contact();
-		for (String module : contact.getModuleList()) { //TODO properly space long module names
-			module = "= " + i + ". " + module;
-			int n = 1;
-			while (module.length() > 28) {
-				module = module.substring(0, 28 * n) + "\r\n" + module.substring(28 * n); }}		
+		Scanner in = new Scanner(System.in);
+		while (in.next().contains("y")) {
+			int i = 1;
+			Contact contact = new Contact();
+			for (String module : contact.getStats()) { //TODO properly space long module names
+				String newStr = "=";	
+				for (int n = 0; n < ((30 - module.length())/2); n++) { System.out.print(" "); } }
+		while (in.next().contains("n")) {
+			//THREAD MANAGEMENT STUFF HERE
+		}
+		
+			
 	}
+}
 }

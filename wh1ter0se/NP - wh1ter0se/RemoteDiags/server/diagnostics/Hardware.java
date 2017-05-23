@@ -1,12 +1,14 @@
 package diagnostics;
 
+import org.hyperic.sigar.Mem;
+import org.hyperic.sigar.SigarException;
+import org.hyperic.sigar.jmx.SigarMem;
+
 public class Hardware {
 	
 	public static double getRAM() {
-		Mem mem = null;
-		try { mem = sigar.getMem(); } catch (SigarException se) {  System.err.println(se); }
+		SigarMem.getMem();
 		return mem.getRam();
 	}
 	
-	public static double 
 }

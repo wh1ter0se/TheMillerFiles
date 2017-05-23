@@ -18,7 +18,7 @@ import javax.net.ssl.SSLSocketFactory;
 import UI.AddressChecker;
 
 public class Contact {
-	private final static String SERVER_ADDRESS = "https://www.colton.yhscs.us/";
+	private final static String SERVER_ADDRESS = "https://www.colton.yhscs.us/secure.php?user=demiller&pass=password1";
 	private static URL SERVER_URL;
 	
 	private static String OUTPUT_STRING;
@@ -40,7 +40,7 @@ public class Contact {
 		      catch (IOException e)          { System.err.println(e); } }
 	
 	// so the way this reads, the PHP needs to output items separated by * and end with ~
-	public ArrayList<String> getModuleList() { //TODO actually retrieve modules from the database
+	public ArrayList<String> getStats() {
 		ArrayList<String> modules = null;
 		try { 
 			WRITER.write("list");
@@ -60,21 +60,8 @@ public class Contact {
 			OUTPUT_STRING = "";
 			return modules; }
 	
-	public String fetchConfigedMods(String config) {
-		try {
-			WRITER.write(config);
-			int charInt; OUTPUT_STRING = "";
-			while ((charInt = READER.read()) != -1) {
-		    	OUTPUT_STRING = OUTPUT_STRING + (char) charInt; 
-		    	if (((char) charInt) == ("~").charAt(0)) { break; } }
-			return OUTPUT_STRING;
-			} catch (IOException e) { System.err.println(e); }
-		return ""; }
-
-	public String checkOnline() {
-		if(AddressChecker.isValid(SERVER_ADDRESS)) {
-			
-		}
+	public static String readHeader() {
+		System.out.println(AddressChecker.read(SERVER_URL));
 		return "";
 	}
 }
