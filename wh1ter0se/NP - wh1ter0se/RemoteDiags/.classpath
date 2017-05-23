@@ -2,6 +2,5 @@
 <classpath>
 	<classpathentry kind="src" path="client"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/wh1ter0se/Documents/Git/TheMillerFiles/wh1ter0se/NP - wh1ter0se/RemoteDiags/sigar.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

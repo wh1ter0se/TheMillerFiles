@@ -1,5 +1,5 @@
 <?php
-    $name = strtolower($_GET["name"]);
+    $name = strtolower($_POST["name"]);
     $firstLineName = strpbrk($name, 'aeiou');
     $firstLine = '%1$s %1$s bo-b%2$s';
     $firstLineText = ucwords(sprintf($firstLine, $name, $firstLineName));
