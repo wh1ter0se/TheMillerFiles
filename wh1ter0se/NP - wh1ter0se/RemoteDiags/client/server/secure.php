@@ -1,12 +1,18 @@
 <?php
+$cookie_name = "useless_value";
+$cookie_value = "something";
+setcookie($cookie_name, $cookie_value, time() + (86400), "/");
+if(!isset($_COOKIE[$cookie_name])) { echo $cookie_name . "needs to be set";
+	} else { echo $_COOKIE[$cookie_name]; }
+
+
+
 $user = $_GET['user'];
 $pass = $_GET['pass'];
 
 if($user == "demiller"
 && $pass == "password1")
-{
-        include("stats.php");
-}
+{ include("stats.php"); }
 else {
     if(isset($_POST))
     {?>

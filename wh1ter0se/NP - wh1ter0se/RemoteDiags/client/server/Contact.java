@@ -15,11 +15,11 @@ import java.util.ArrayList;
 import javax.net.SocketFactory;
 import javax.net.ssl.SSLSocketFactory;
 
-import UI.AddressChecker;
+import UI.URLReader;
 
 public class Contact {
-	private final static String SERVER_ADDRESS = "https://www.colton.yhscs.us/secure.php?user=demiller&pass=password1";
-	private static URL SERVER_URL;
+	public final static String SERVER_ADDRESS = "https://www.colton.yhscs.us/secure.php?user=demiller&pass=password1";
+	public static URL SERVER_URL;
 	
 	private static String OUTPUT_STRING;
 	
@@ -65,7 +65,7 @@ public class Contact {
 			return modules; }
 	
 	public static String readHeader() {
-		System.out.println(AddressChecker.read(SERVER_URL));
+		System.out.println(URLReader.read(SERVER_URL));
 		return "";
 	}
 }
